@@ -11,4 +11,3 @@ public class BitwiseComplement {
         return (multiple - 1) - n;
     }
 }
-//github test
