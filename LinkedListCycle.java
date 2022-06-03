@@ -1,5 +1,5 @@
 import java.util.HashMap;
-
+/*
 class ListNode {
     int val;
     ListNode next;
@@ -19,3 +19,5 @@ public class LinkedListCycle {
         else return false;
     }
 }
+
+ */
