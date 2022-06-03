@@ -5,6 +5,7 @@
     and all the elements on the secondary diagonal that are not part
     of the primary diagonal.
  */
+
 import java.util.*;
 public class MatrixDiagonalSum {
     public static void main(String[] args) {
